@@ -56,8 +56,8 @@ public final class Nxt {
 
     private static volatile Time time = new Time.EpochTime();
 
-    public static final String NXT_DEFAULT_PROPERTIES = "nxt-default.properties";
-    public static final String NXT_PROPERTIES = "nxt.properties";
+    public static final String NXT_DEFAULT_PROPERTIES = "blcx-default.properties";
+    public static final String NXT_PROPERTIES = "blcx.properties";
     public static final String NXT_INSTALLER_PROPERTIES = "nxt-installer.properties";
     public static final String CONFIG_DIR = "conf";
 
